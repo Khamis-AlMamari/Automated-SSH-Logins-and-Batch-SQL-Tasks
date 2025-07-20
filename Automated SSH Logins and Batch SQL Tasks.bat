@@ -65,7 +65,7 @@ start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
-start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password
+start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 
 echo.
 echo Operation complete for South Batinah Region.
@@ -125,7 +125,7 @@ start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
-start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password
+start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 
 echo.
 echo Operation complete for Dhofar Region.
@@ -156,7 +156,7 @@ start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
-start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password
+start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 
 
 echo.
@@ -189,7 +189,7 @@ start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
-start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password
+start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 
 
 
@@ -222,7 +222,7 @@ start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
-start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password
+start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 
 
 echo.
@@ -253,7 +253,7 @@ start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
-start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password
+start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 
 
 echo.
@@ -282,7 +282,7 @@ start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
-start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password
+start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 
 
 
@@ -312,7 +312,7 @@ start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
-start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password
+start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 
 
 echo.
@@ -342,7 +342,7 @@ start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
-start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password
+start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 
 
 echo.
@@ -371,7 +371,7 @@ start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
-start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password
+start "ServerName (11.11.11.11)" %PUTTY_PATH% -ssh 11.11.11.11 -l %USERNAME% -pw "Password"
 
 
 echo.
